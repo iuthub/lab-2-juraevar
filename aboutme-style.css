@@ -1,0 +1,20 @@
+.header h1, p{
+  text-align: center;
+}
+.information{
+  margin-left: 40px;
+}
+.information ul li{
+  color: green;
+}
+.information h1{
+  color: blue;
+}
+.mymood img{
+width: 300px;
+height: 300px;
+}
+.mymood p{
+  padding-left: 30px;
+}
+
